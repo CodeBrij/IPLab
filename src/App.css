@@ -1,0 +1,33 @@
+.App {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 16px;
+  background-color: lightblue;
+  border: none;
+  cursor: pointer;
+}
+
+.result {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: lightyellow;
+  border-radius: 5px;
+}
