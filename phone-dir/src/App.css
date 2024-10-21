@@ -1,0 +1,38 @@
+body {
+  background-color: #f0f8ff;
+  color: #333;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.phonebook {
+  background-color: #86f8e1;
+  border: 1px solid #d3b17d;
+}
+
+.phonebook h2 {
+  text-align: center;
+  color: #8b4513;
+  border-bottom: 2px solid #d3b17d;
+  padding-bottom: 10px;
+}
+
+h1,
+h2 {
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+li {
+  margin-bottom: 5px;
+}

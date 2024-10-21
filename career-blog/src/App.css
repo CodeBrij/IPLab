@@ -1,0 +1,35 @@
+body {
+}
+
+h1 {
+  color: #2c3e50;
+  text-align: center;
+}
+
+.article {
+  background: white;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  border: 1px solid #f92a2a;
+}
+
+.article h2 {
+  color: #3498db;
+}
+
+form {
+  background: white;
+  padding: 20px;
+  border-radius: 5px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+fieldset {
+  border-radius: 5px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
